@@ -2,14 +2,7 @@
 ## DeepProm: a deep learning approach for the identification of bacterial promoters and their sub-types based on sigma factors
 ============================================================================================================================
 
-------------------------------------------------------------------------------------------------------
-## Authors: Priyadarshini Panemangalore Pai, Jin Hwan Park, Taeyong Kim*, Rajasekhara Reddy Duvvuru Muni*
-## Contact: raja.duvvuru@samsung.com; ty76.kim@samsung.com
-------------------------------------------------------------------------------------------------------
-
 ## DeepProm Version 1.1
-
- [![Latest Github release](https://github.com/priyadarshinipai/DeepProm)]
 
 ## Dependencies
 DeepProm was created in a conda environment. To install:
